@@ -1,0 +1,3 @@
+class UserDet {
+    String name
+}
